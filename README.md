@@ -34,6 +34,8 @@
 
 ### 파일 구조
 
+
+```javascript
 📦src
 ┣ 📂controllers
 ┃ ┣ 📜patients.js
@@ -65,11 +67,14 @@
 ┃ 📜package.json
 ┃ 📜README.md
 ┃ 📜server.js
+```
 
 ### 프로젝트 실행 방법
 
+```
 > npm i
 > npm start
+```
 
 ### database setting
 
